@@ -1389,4 +1389,4 @@ Next Steps
 
   * :ref:`Import Your Existing Amazon Cognito Identity Pool <how-to-cognito-integrate-an-existing-identity-pool>`
 
-  * `Amazon Cognito Developer Guide <http://docs.aws.amazon.com/cognito/latest/developerguide/>`__
+  * `Amazon Cognito Developer Guide <http://docs.aws.amazon.com/cognito/latest/developerguide/>`
